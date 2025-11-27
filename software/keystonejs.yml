@@ -8,6 +8,14 @@ platforms:
 tags:
   - Content Management Systems (CMS)
 source_code_url: https://github.com/keystonejs/keystone
-stargazers_count: 9621
-updated_at: '2025-07-08'
+stargazers_count: 9782
+updated_at: '2025-11-26'
 archived: false
+current_release:
+  tag: '2025-05-06'
+  published_at: '2025-05-05'
+commit_history:
+  2025-08: 15
+  2025-09: 9
+  2025-10: 7
+  2025-11: 20

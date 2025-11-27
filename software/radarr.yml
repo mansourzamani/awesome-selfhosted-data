@@ -9,6 +9,14 @@ platforms:
 tags:
   - Media Management
 source_code_url: https://github.com/Radarr/Radarr
-stargazers_count: 11768
-updated_at: '2025-07-08'
+stargazers_count: 12491
+updated_at: '2025-11-19'
 archived: false
+current_release:
+  tag: v6.1.0.10293
+  published_at: '2025-11-16'
+commit_history:
+  2025-08: 14
+  2025-09: 47
+  2025-10: 9
+  2025-11: 4

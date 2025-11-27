@@ -10,6 +10,14 @@ platforms:
 tags:
   - Proxy
 source_code_url: https://github.com/imgproxy/imgproxy
-stargazers_count: 9688
-updated_at: '2025-07-08'
+stargazers_count: 10111
+updated_at: '2025-11-21'
 archived: false
+current_release:
+  tag: v3.30.1
+  published_at: '2025-10-10'
+commit_history:
+  2025-08: 12
+  2025-09: 12
+  2025-10: 1
+  2025-11: 8

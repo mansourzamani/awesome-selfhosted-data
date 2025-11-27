@@ -10,7 +10,16 @@ platforms:
   - C
 tags:
   - File Transfer & Synchronization
+  - Groupware
 source_code_url: https://github.com/haiwen/seafile
-stargazers_count: 13317
-updated_at: '2025-07-05'
+stargazers_count: 13990
+updated_at: '2025-11-21'
 archived: false
+current_release:
+  tag: v9.0.5
+  published_at: '2024-02-27'
+commit_history:
+  2025-08: 1
+  2025-09: 1
+  2025-10: 3
+  2025-11: 6

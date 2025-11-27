@@ -1,5 +1,5 @@
 name: Stirling-PDF
-website_url: https://github.com/Frooodle/Stirling-PDF
+website_url: https://github.com/Stirling-Tools/Stirling-PDF
 description: Local hosted web application that allows you to perform various operations on PDF files, such as merging, splitting, file conversions and OCR.
 licenses:
   - Apache-2.0
@@ -8,7 +8,15 @@ platforms:
   - Java
 tags:
   - Document Management
-source_code_url: https://github.com/Frooodle/Stirling-PDF
-stargazers_count: 63135
-updated_at: '2025-07-08'
+source_code_url: https://github.com/Stirling-Tools/Stirling-PDF
+stargazers_count: 70277
+updated_at: '2025-11-25'
 archived: false
+current_release:
+  tag: v2.0.1
+  published_at: '2025-11-26'
+commit_history:
+  2025-08: 87
+  2025-09: 88
+  2025-10: 103
+  2025-11: 72

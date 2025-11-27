@@ -8,6 +8,14 @@ platforms:
 tags:
   - Feed Readers
 source_code_url: https://github.com/nkanaev/yarr
-stargazers_count: 3286
-updated_at: '2025-06-04'
+stargazers_count: 3606
+updated_at: '2025-11-24'
 archived: false
+current_release:
+  tag: v2.6
+  published_at: '2025-11-24'
+commit_history:
+  2025-08: 1
+  2025-09: 8
+  2025-10: 8
+  2025-11: 3

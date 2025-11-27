@@ -9,6 +9,14 @@ platforms:
 tags:
   - Money, Budgeting & Management
 source_code_url: https://github.com/ghostfolio/ghostfolio
-stargazers_count: 6024
-updated_at: '2025-07-08'
+stargazers_count: 6988
+updated_at: '2025-11-26'
 archived: false
+current_release:
+  tag: 2.219.0
+  published_at: '2025-11-23'
+commit_history:
+  2025-08: 92
+  2025-09: 97
+  2025-10: 134
+  2025-11: 72

@@ -1,5 +1,5 @@
 name: OpenZiti
-website_url: https://openziti.github.io/
+website_url: https://openziti.io/
 description: Fully-featured, zero trust, full mesh overlay network. Includes a 2FA support out of the box, clients for all major desktop/mobile OS'es.
 licenses:
   - Apache-2.0
@@ -8,6 +8,14 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/openziti/ziti
-stargazers_count: 3425
-updated_at: '2025-07-08'
+stargazers_count: 3719
+updated_at: '2025-11-26'
 archived: false
+current_release:
+  tag: v1.5.9
+  published_at: '2025-11-26'
+commit_history:
+  2025-08: 15
+  2025-09: 55
+  2025-10: 32
+  2025-11: 35

@@ -1,0 +1,22 @@
+name: Harbor
+website_url: https://goharbor.io/
+source_code_url: https://github.com/goharbor/harbor
+description: Cloud native image registry that stores, signs, and scans content.
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - K8S
+tags:
+  - File Transfer - Object Storage & File Servers
+stargazers_count: 26961
+updated_at: '2025-11-26'
+archived: false
+current_release:
+  tag: v2.14.1
+  published_at: '2025-11-24'
+commit_history:
+  2025-08: 23
+  2025-09: 24
+  2025-10: 18
+  2025-11: 5

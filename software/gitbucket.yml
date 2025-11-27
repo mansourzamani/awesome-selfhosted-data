@@ -9,6 +9,14 @@ platforms:
 tags:
   - Software Development - Project Management
 source_code_url: https://github.com/gitbucket/gitbucket
-stargazers_count: 9268
-updated_at: '2025-07-08'
+stargazers_count: 9322
+updated_at: '2025-11-24'
 archived: false
+current_release:
+  tag: 4.44.0
+  published_at: '2025-09-23'
+commit_history:
+  2025-08: 17
+  2025-09: 21
+  2025-10: 13
+  2025-11: 11

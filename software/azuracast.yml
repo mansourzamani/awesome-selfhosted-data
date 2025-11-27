@@ -8,6 +8,14 @@ platforms:
 tags:
   - Media Streaming - Audio Streaming
 source_code_url: https://github.com/AzuraCast/AzuraCast
-stargazers_count: 3428
-updated_at: '2025-07-08'
+stargazers_count: 3626
+updated_at: '2025-11-24'
 archived: false
+current_release:
+  tag: 0.19.0
+  published_at: '2023-08-17'
+commit_history:
+  2025-08: 121
+  2025-09: 106
+  2025-10: 56
+  2025-11: 14

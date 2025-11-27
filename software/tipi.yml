@@ -7,7 +7,15 @@ platforms:
   - Shell
 tags:
   - Self-hosting Solutions
-source_code_url: https://github.com/meienberger/runtipi
-stargazers_count: 8629
-updated_at: '2025-07-05'
+source_code_url: https://github.com/runtipi/runtipi
+stargazers_count: 9047
+updated_at: '2025-11-14'
 archived: false
+current_release:
+  tag: v4.6.5
+  published_at: '2025-11-14'
+commit_history:
+  2025-08: 44
+  2025-09: 71
+  2025-10: 64
+  2025-11: 27

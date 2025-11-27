@@ -1,0 +1,21 @@
+name: Onyx Community Edition
+website_url: https://onyx.app
+source_code_url: https://github.com/onyx-dot-app/onyx
+description: Chat UI that works with any LLM. It comes loaded with advanced features like agents, web search, RAG, MCP, deep research, Connectors to 40+ knowledge sources, and more.
+licenses:
+  - MIT
+platforms:
+  - Docker
+  - K8S
+tags:
+  - Generative Artificial Intelligence (GenAI)
+stargazers_count: 16374
+updated_at: '2025-11-26'
+archived: false
+current_release:
+  tag: v2.5.3
+  published_at: '2025-11-25'
+commit_history:
+  2025-09: 156
+  2025-10: 274
+  2025-11: 291

@@ -11,6 +11,14 @@ tags:
   - Knowledge Management Tools
 source_code_url: https://github.com/alephdata/aleph
 demo_url: https://aleph.occrp.org/
-stargazers_count: 2182
-updated_at: '2025-07-04'
+stargazers_count: 2283
+updated_at: '2025-10-27'
 archived: false
+current_release:
+  tag: 4.1.7
+  published_at: '2025-10-27'
+commit_history:
+  2025-08: 11
+  2025-09: 2
+  2025-10: 9
+  2025-11: 0
